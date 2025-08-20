@@ -1,0 +1,10 @@
+<a href="index.html" class="logo">
+  <svg width="160" height="50" viewBox="0 0 160 50" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="25" cy="25" r="20" stroke="#2a9d8f" stroke-width="3" fill="none"/>
+    <line x1="25" y1="5" x2="25" y2="45" stroke="#2a9d8f" stroke-width="2"/>
+    <line x1="5" y1="25" x2="45" y2="25" stroke="#2a9d8f" stroke-width="2"/>
+    <text x="60" y="32" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="bold" fill="#264653">
+      Stat<tspan fill="#2a9d8f">Sniper</tspan>
+    </text>
+  </svg>
+</a>
